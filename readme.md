@@ -30,7 +30,10 @@ If not, then choose Vim, later you can change**
 
 ## Congratulations, you have installed Git.
 
-## **For further work, let's go through a little the basic commands that we need to work in Git**
+## *For further work, let's go through a little the basic commands that we need to work in Git*
+
+
+# <span style="color:green"> Basic commands to get started
 
 *git --version:* Indicates the version of git that is installed on your computer. And the path to the file
 
@@ -38,6 +41,14 @@ If not, then choose Vim, later you can change**
 
 *git add .* Adding a file/folder for further work with it in editor. **Adding all files at once, if we put a "dot"**
 
-*git add "files_name":* Adding a file/folder for further work with it in editor. **Adding the specific file you want**
+*git add 'files_name':* Adding a file/folder for further work with it in editor. **Adding the specific file you want**
 
-*git commit -m "comment":* Creating a commit. Saving the work you've done.
+*git commit -m 'comment':* Creating a commit. Saving the work you've done.
+
+# <span style="color:Blue"> Additional Commands for Checking Data and Reverting to Commits
+
+*git log:* Get changes, saves, and commit codes so that you can return to that branch of work if necessary
+
+*git checkout <first 4 digits of the code branch>:* command to go back to the save/commit you want to go back to![Alt text](5.jpg)
+
+The first 4 digits will be enough to return to commit you want
