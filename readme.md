@@ -30,3 +30,14 @@ If not, then choose Vim, later you can change**
 
 ## Congratulations, you have installed Git.
 
+## **For further work, let's go through a little the basic commands that we need to work in Git**
+
+*git --version:* Indicates the version of git that is installed on your computer. And the path to the file
+
+*git init:* Initializing or creating a repository
+
+*git add .* Adding a file/folder for further work with it in editor. **Adding all files at once, if we put a "dot"**
+
+*git add "files_name":* Adding a file/folder for further work with it in editor. **Adding the specific file you want**
+
+*git commit -m "comment":* Creating a commit. Saving the work you've done.
