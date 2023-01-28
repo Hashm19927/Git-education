@@ -1,6 +1,6 @@
 # Git instruction
 
-## Downloading program instalation
+## Downloading program and instalation
 
 - Step 1 (Downloading)
 
@@ -11,5 +11,13 @@ You need to select the configuration of your computer and install the desired ve
 
 - Step 2 (Installation)
 
-![Run the uploaded file, read the agreement and click "next"](1.jpg)
+**Run the uploaded file, read the agreement and click "next"**
 
+![](1.jpg)
+
+**Next, select the checkboxes we need to install. (For further work, it is better to choose those that you see on the GIF)**
+
+![Alt text](2.gif)
+
+**Next, select the editor in which you will work. If you have Visual studio code installed, then select it, because we will perform further work in it.
+If not, then choose Vim, later you can change**
