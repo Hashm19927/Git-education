@@ -52,3 +52,5 @@ If not, then choose Vim, later you can change**
 *git checkout <first 4 digits of the code branch>:* command to go back to the save/commit you want to go back to![Alt text](5.jpg)
 
 The first 4 digits will be enough to return to commit you want
+
+## *That's all for today. Further instructions will increase as the course progresses.*
