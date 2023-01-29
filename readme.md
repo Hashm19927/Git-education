@@ -51,7 +51,11 @@ https://git-scm.com/downloads
 
 *git checkout <first 4 digits of the code branch>:* command to go back to the save/commit you want to go back to![Alt text](5.jpg)
 
-The first 4 digits will be enough to return to commit you want
+The first 4 digits will be enough to return to commit you want.
+
+git config -- global user.email '': This command will allow you to link to the email you signed up with on Github
+
+git config -- global user.name '': We set our name. To ensure that any changes are recorded by those who make them. You could also refer to them later.
 
 ## *Russian instructions about fonts*
 
