@@ -1,36 +1,36 @@
-# Git instruction
+# Git инструкция
 
-## Downloading program and instalation
+## Загрузка программы и установка
 
-- Step 1 (Downloading)
+- Шаг один 1 (Загрузка)
 
-We need to download Git. Link for downloading the program:
+Нам нужно скачать Git. Следуйте по ссылке ниже:
 https://git-scm.com/downloads
 
-You need to select the configuration of your computer and install the desired version
+Вам необходимо выбрать конфигурацию вашего компьютера и установить нужную версию
 
-- Step 2 (Installation)
+- Шаг 2 (Установка)
 
-**Run the uploaded file, read the agreement and click "next"**
+**Запустите загруженный файл, прочитайте соглашение и нажмите «Далее»"**
 
 ![](1.jpg)
 
-**Next, select the checkboxes we need to install. (For further work, it is better to choose those that you see on the GIF)**
+**Далее выбираем галочки, которые нам нужно установить. (Для дальнейшей работы лучше выбрать те, что вы видите на GIF)**
 
 ![Alt text](2.gif)
 
-**Next, select the editor in which you will work. If you have Visual studio code installed, then select it, because we will perform further work in it.
-If not, then choose Vim, later you can change**
+**Далее выберите редактор, в котором будете работать. Если у вас установлен код Visual Studio, то выберите его, потому что дальнейшую работу мы будем выполнять в нем.
+Если нет, то выбираем Vim, позже можно будет поменять**
 
 ![Alt text](3.jpg)
 
-**Next, leave all the checkboxes as they are. In the last window, you should only pay attention to the offers. But, it is up to you whether you want to receive notifications or not. They can be removed.**
+**Далее оставьте все галочки как есть. В последнем окне следует обращать внимание только на предложения. Но вам решать, хотите ли вы получать уведомления или нет. Их можно удалить.**
 
 ![Alt text](4.jpg)
 
-## Congratulations, you have installed Git.
+## Поздравляем, вы установили Git.
 
-## *For further work, let's go through a little the basic commands that we need to work in Git*
+## *Для дальнейшей работы пройдемся немного по основным командам, которые нам понадобятся для работы в Git*
 
 
 # <span style="color:green"> Basic commands to get started
